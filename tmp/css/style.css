@@ -1,0 +1,25 @@
+@import url("./button.css");
+@import url("./select.css");
+@import url("./card.css");
+
+section {
+  display: none;
+}
+
+.favike {
+  margin: 1em auto 2em;
+  text-align: left;
+}
+.favike span {
+  line-height: 40px;
+  display: block;
+}
+.hoge {
+  width: 305px;
+  border:0;
+  border:solid 1px #ccc;
+  border-radius: 3px;
+  box-shadow: inset 1px 4px 9px -6px rgba(0,0,0,0.5);
+  display: block;
+  margin: auto;
+}
